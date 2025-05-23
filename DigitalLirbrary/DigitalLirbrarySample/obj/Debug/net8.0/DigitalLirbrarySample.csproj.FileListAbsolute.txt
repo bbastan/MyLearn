@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\bin\Debug\net8.0\DigitalLirbrarySample.exe
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\bin\Debug\net8.0\DigitalLirbrarySample.deps.json
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\bin\Debug\net8.0\DigitalLirbrarySample.runtimeconfig.json
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\bin\Debug\net8.0\DigitalLirbrarySample.dll
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\bin\Debug\net8.0\DigitalLirbrarySample.pdb
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.dll
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\refint\DigitalLirbrarySample.dll
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.pdb
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\DigitalLirbrarySample.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\DigitalLirbrary\DigitalLirbrarySample\obj\Debug\net8.0\ref\DigitalLirbrarySample.dll

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|c:\\users\\b.bastan\\source\\repos\\digitallirbrary\\digitallirbrarysample\\entities\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|solutionrelative:digitallirbrarysample\\entities\\iauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|c:\\users\\b.bastan\\source\\repos\\digitallirbrary\\digitallirbrarysample\\entities\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|solutionrelative:digitallirbrarysample\\entities\\librarysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|c:\\users\\b.bastan\\source\\repos\\digitallirbrary\\digitallirbrarysample\\entities\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|solutionrelative:digitallirbrarysample\\entities\\libraryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|c:\\users\\b.bastan\\source\\repos\\digitallirbrary\\digitallirbrarysample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|solutionrelative:digitallirbrarysample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|c:\\users\\b.bastan\\source\\repos\\digitallirbrary\\digitallirbrarysample\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4CC7FFED-D1DC-4E84-BF5D-39D6C55E4331}|DigitalLirbrarySample\\DigitalLirbrarySample.csproj|solutionrelative:digitallirbrarysample\\repository\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\IAuthentication.cs",
+              "RelativeDocumentMoniker": "DigitalLirbrarySample\\Entities\\IAuthentication.cs",
+              "ToolTip": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\IAuthentication.cs",
+              "RelativeToolTip": "DigitalLirbrarySample\\Entities\\IAuthentication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T08:42:48.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibrarySystem.cs",
+              "DocumentMoniker": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\LibrarySystem.cs",
+              "RelativeDocumentMoniker": "DigitalLirbrarySample\\Entities\\LibrarySystem.cs",
+              "ToolTip": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\LibrarySystem.cs",
+              "RelativeToolTip": "DigitalLirbrarySample\\Entities\\LibrarySystem.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAgwIYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T03:28:16.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryService.cs",
+              "DocumentMoniker": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\LibraryService.cs",
+              "RelativeDocumentMoniker": "DigitalLirbrarySample\\Entities\\LibraryService.cs",
+              "ToolTip": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Entities\\LibraryService.cs",
+              "RelativeToolTip": "DigitalLirbrarySample\\Entities\\LibraryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:11:38.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Repository\\Repository.cs",
+              "RelativeDocumentMoniker": "DigitalLirbrarySample\\Repository\\Repository.cs",
+              "ToolTip": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Repository\\Repository.cs",
+              "RelativeToolTip": "DigitalLirbrarySample\\Repository\\Repository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAUwBEAAACHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T04:57:59.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Program.cs",
+              "RelativeDocumentMoniker": "DigitalLirbrarySample\\Program.cs",
+              "ToolTip": "C:\\Users\\b.bastan\\source\\repos\\DigitalLirbrary\\DigitalLirbrarySample\\Program.cs",
+              "RelativeToolTip": "DigitalLirbrarySample\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAC8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T05:03:07.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
