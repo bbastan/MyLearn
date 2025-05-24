@@ -100,40 +100,10 @@ namespace DigitalLirbrarySample.Entities
                 Console.ForegroundColor = ConsoleColor.Yellow;
                 Console.WriteLine("Please select:\n1-Login\n2-Logout");
                 var input = Console.ReadLine();
-                if (input == "1")
-                {
-                    LoginAgain();
-                }
-                else
-                {
-                    LogOut();
-                }
+                
             }
         }
-        //internal override void LoginAgain()
-        //{
-        //    if (input == "1")
-        //    {
-        //        Console.ForegroundColor = ConsoleColor.Blue;
-        //        Console.WriteLine("Login again!");
-        //        Console.ForegroundColor = ConsoleColor.DarkYellow;
-        //        Console.Write("Please enter your email: ");
-        //        email = Console.ReadLine();
-        //        Console.ForegroundColor = ConsoleColor.DarkYellow;
-        //        Console.Write("Please enter your password: ");
-        //        password = Console.ReadLine();
-        //        Console.ForegroundColor = ConsoleColor.DarkYellow;
-        //        Console.WriteLine("Please select your role:\n1-Librarian\n2-Member");
-        //        role = (Role)Convert.ToInt32(Console.ReadLine());
-        //        flag = true;
-        //    }
-        //    else
-        //    {
-        //        flag = false;
-        //        Console.ForegroundColor = ConsoleColor.DarkRed;
-        //        Console.WriteLine("Logout done!");
-        //    }
-        //}
+        
         internal override void Register(string name, string email, string password, Role role)
         {
 
