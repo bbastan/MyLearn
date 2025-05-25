@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.exe
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.deps.json
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.runtimeconfig.json
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.dll
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\bin\Debug\net8.0\UserManagementSystem.pdb
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.dll
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\refint\UserManagementSystem.dll
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.pdb
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\UserManagementSystem.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\UserManagementSystem\UserManagementSystem\obj\Debug\net8.0\ref\UserManagementSystem.dll
