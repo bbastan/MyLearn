@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\bin\Debug\net8.0\buildingManagment.exe
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\bin\Debug\net8.0\buildingManagment.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\bin\Debug\net8.0\buildingManagment.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\bin\Debug\net8.0\buildingManagment.dll
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\bin\Debug\net8.0\buildingManagment.pdb
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.dll
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\refint\buildingManagment.dll
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.pdb
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\buildingManagment.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\buildingManagment\obj\Debug\net8.0\ref\buildingManagment.dll

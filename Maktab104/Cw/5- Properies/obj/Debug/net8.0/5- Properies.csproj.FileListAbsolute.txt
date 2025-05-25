@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\bin\Debug\net8.0\5- Properies.exe
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\bin\Debug\net8.0\5- Properies.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\bin\Debug\net8.0\5- Properies.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\bin\Debug\net8.0\5- Properies.dll
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\bin\Debug\net8.0\5- Properies.pdb
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.dll
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\refint\5- Properies.dll
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.pdb
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\5- Properies.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\5- Properies\obj\Debug\net8.0\ref\5- Properies.dll

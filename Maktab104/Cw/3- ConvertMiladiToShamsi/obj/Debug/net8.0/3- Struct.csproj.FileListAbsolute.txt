@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\bin\Debug\net8.0\3- Struct.exe
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\bin\Debug\net8.0\3- Struct.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\bin\Debug\net8.0\3- Struct.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\bin\Debug\net8.0\3- Struct.dll
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\bin\Debug\net8.0\3- Struct.pdb
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.dll
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\refint\3- Struct.dll
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.pdb
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\3- Struct.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\3- ConvertMiladiToShamsi\obj\Debug\net8.0\ref\3- Struct.dll

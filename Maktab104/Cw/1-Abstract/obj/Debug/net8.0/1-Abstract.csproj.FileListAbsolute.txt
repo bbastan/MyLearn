@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\bin\Debug\net8.0\1-Abstract.exe
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\bin\Debug\net8.0\1-Abstract.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\bin\Debug\net8.0\1-Abstract.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\bin\Debug\net8.0\1-Abstract.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\bin\Debug\net8.0\1-Abstract.pdb
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\refint\1-Abstract.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.pdb
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\1-Abstract.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-Abstract\obj\Debug\net8.0\ref\1-Abstract.dll

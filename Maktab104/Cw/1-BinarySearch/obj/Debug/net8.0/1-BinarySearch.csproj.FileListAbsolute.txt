@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\bin\Debug\net8.0\1-BinarySearch.exe
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\bin\Debug\net8.0\1-BinarySearch.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\bin\Debug\net8.0\1-BinarySearch.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\bin\Debug\net8.0\1-BinarySearch.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\bin\Debug\net8.0\1-BinarySearch.pdb
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\refint\1-BinarySearch.dll
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.pdb
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\1-BinarySearch.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\1-BinarySearch\obj\Debug\net8.0\ref\1-BinarySearch.dll

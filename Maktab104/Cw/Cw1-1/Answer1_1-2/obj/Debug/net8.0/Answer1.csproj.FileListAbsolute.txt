@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\bin\Debug\net8.0\Answer1.exe
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\bin\Debug\net8.0\Answer1.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\bin\Debug\net8.0\Answer1.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\bin\Debug\net8.0\Answer1.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\bin\Debug\net8.0\Answer1.pdb
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\refint\Answer1.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.pdb
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\Answer1.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer1_1-2\obj\Debug\net8.0\ref\Answer1.dll

@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\bin\Debug\net8.0\2- Coin.exe
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\bin\Debug\net8.0\2- Coin.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\bin\Debug\net8.0\2- Coin.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\bin\Debug\net8.0\2- Coin.dll
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\bin\Debug\net8.0\2- Coin.pdb
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.dll
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\refint\2- Coin.dll
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.pdb
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\2- Coin.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\2- Coin\obj\Debug\net8.0\ref\2- Coin.dll

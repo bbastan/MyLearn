@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\bin\Debug\net8.0\Answer2-1_4-a.exe
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\bin\Debug\net8.0\Answer2-1_4-a.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\bin\Debug\net8.0\Answer2-1_4-a.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\bin\Debug\net8.0\Answer2-1_4-a.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\bin\Debug\net8.0\Answer2-1_4-a.pdb
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\refint\Answer2-1_4-a.dll
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.pdb
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\Answer2-1_4-a.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\Answer2-1_4-a\obj\Debug\net8.0\ref\Answer2-1_4-a.dll

@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\bin\Debug\net8.0\2-FindNumber.exe
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\bin\Debug\net8.0\2-FindNumber.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\bin\Debug\net8.0\2-FindNumber.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\bin\Debug\net8.0\2-FindNumber.dll
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\bin\Debug\net8.0\2-FindNumber.pdb
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.dll
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\refint\2-FindNumber.dll
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.pdb
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\2-FindNumber.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\2-FindNumber\obj\Debug\net8.0\ref\2-FindNumber.dll

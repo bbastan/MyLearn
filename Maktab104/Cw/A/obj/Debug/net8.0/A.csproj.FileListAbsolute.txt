@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\A.exe
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\A.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\A.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\A.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\A.pdb
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\refint\A.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.pdb
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\A.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\ref\A.dll

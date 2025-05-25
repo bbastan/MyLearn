@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\LoginRegisterUser.exe
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\LoginRegisterUser.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\LoginRegisterUser.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\LoginRegisterUser.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\bin\Debug\net8.0\LoginRegisterUser.pdb
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\refint\LoginRegisterUser.dll
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.pdb
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\LoginRegisterUser.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\A\obj\Debug\net8.0\ref\LoginRegisterUser.dll

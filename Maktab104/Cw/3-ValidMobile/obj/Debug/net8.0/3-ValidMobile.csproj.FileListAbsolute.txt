@@ -1,0 +1,14 @@
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\bin\Debug\net8.0\3-ValidMobile.exe
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\bin\Debug\net8.0\3-ValidMobile.deps.json
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\bin\Debug\net8.0\3-ValidMobile.runtimeconfig.json
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\bin\Debug\net8.0\3-ValidMobile.dll
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\bin\Debug\net8.0\3-ValidMobile.pdb
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.AssemblyInfoInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.AssemblyInfo.cs
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.csproj.CoreCompileInputs.cache
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.dll
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\refint\3-ValidMobile.dll
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.pdb
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\3-ValidMobile.genruntimeconfig.cache
+C:\Users\b.bastan\source\repos\Maktab104\3-ValidMobile\obj\Debug\net8.0\ref\3-ValidMobile.dll
